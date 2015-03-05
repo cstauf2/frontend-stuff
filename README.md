@@ -1,7 +1,7 @@
 Frontend stuff
 ========================
 
-I put links here that I regularly reference and/or use on frontend projects. Mostly CSS/HTML/design stuff. I stole the idea from [another guy](https://github.com/moklick/frontend-stuff/).
+Resources that I regularly reference and use on frontend projects. Mostly CSS/HTML/design stuff.
 
 - [CSS](#css)
 - [Scaffolding](#scaffolding)
