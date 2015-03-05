@@ -48,7 +48,7 @@ radio buttons
 
 ### Page Speed
 - [sitespeed.io](https://github.com/sitespeedio/) - test performance budgets and performance best practice rules
-- [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo/) - a curated list of Web Performance Optimization
+- [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo/) - a curated list of web performance optimization
 - [pagespeed-module](https://developers.google.com/speed/pagespeed/module/) - open-source webserver module that applies web performance best practices to your pages
 
 ### Text
