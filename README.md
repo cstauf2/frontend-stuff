@@ -26,6 +26,7 @@ Resources that I regularly reference and use on frontend projects. Mostly CSS/HT
 - [nth-test](http://nth-test.com/) - play around and test the nth out your CSS
 
 ### Scaffolding
+- [staticgen.com](https://www.staticgen.com/) - massive list of top open-source static site generators
 - [patternlab](http://patternlab.io/) - a static site generator to help you create atomic design systems
 - [middleman](https://middlemanapp.com/) - a custom static site generator using all the shortcuts and tools in modern web development
 
