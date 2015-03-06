@@ -1,7 +1,7 @@
 Frontend stuff
 ========================
 
-Resources that I regularly reference and use on frontend projects. Mostly CSS/HTML/design stuff.
+Resources that I sometimes use on frontend projects. Mostly CSS/HTML/design stuff.
 
 - [CSS](#css)
 - [Scaffolding](#scaffolding)
@@ -38,7 +38,7 @@ Resources that I regularly reference and use on frontend projects. Mostly CSS/HT
 - [materialize](http://materializecss.com/) - a modern responsive front-end framework based on material design
 
 ### UI Elements
-- [taggingJS](https://github.com/sniperwolf/taggingJS/) - jquery plugin to tagging like a charm
+- [taggingJS](https://github.com/sniperwolf/taggingJS/) - plugin for pretty tagging
 - [labelauty](https://github.com/fntneves/jquery-labelauty/) - lightweight jquery plugin that gives beauty to checkboxes and
 radio buttons
 - [points-of-interest](https://github.com/CodyHouse/points-of-interest/) - a resource to highlight the points of interest on your web pages
@@ -86,18 +86,18 @@ radio buttons
 - [uiGradients](https://github.com/Ghosh/uiGradients/) - a handpicked collection of beautiful colour gradients for design and code
 - [colourco.de](http://colourco.de/) - find your colour scheme
 - [colours](http://colours.neilorangepeel.com/) - list of CSS colors by name, hex and rgb value
-- [material-palette](http://www.materialpalette.com/) - material design color palette generator
-- [adobe-color-cc](https://color.adobe.com/create/color-wheel/) - capture and create inspiring color themes
+- [material palette](http://www.materialpalette.com/) - material design color palette generator
+- [adobe color](https://color.adobe.com/create/color-wheel/) - capture and create inspiring color themes
 
 ### Social
-- [social-feed.js](http://pavelk2.github.io/social-feed/) - jquery plugin which displays posts by a username or a hashtag from the popular social networks: Facebook, Instagram, Twitter, Google+, VK
+- [social-feed.js](http://pavelk2.github.io/social-feed/) - plugin which displays posts by a username or a hashtag from the popular social networks: Facebook, Instagram, Twitter, Google+, VK
 
 ### Playgrounds
-- [zurb](http://zurb.com/playground) - Zurb's home for experimentation
+- [zurb](http://zurb.com/playground) - code playground for Zurb
 - [codrops](http://tympanus.net/codrops/category/playground/) - experiments, plugins and articles related to web development and programming
 - [filament group](http://www.filamentgroup.com/code/) - open-source code by Filament Group
 - [codyhouse](http://codyhouse.co/library/) - web experiments by CodyHouse
 
 ### UX
-- [ux-checklist](https://userium.com/) - catch common usability problems before user testing
-- [ux-crash-course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals/) - 31 fundamental lessons in user experience design
+- [ux checklist](https://userium.com/) - catch common usability problems before user testing
+- [ux crash course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals/) - 31 fundamental lessons in user experience design
