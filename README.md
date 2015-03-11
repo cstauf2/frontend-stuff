@@ -1,7 +1,7 @@
 Frontend stuff
 ========================
 
-Resources that I sometimes use on frontend projects. Mostly CSS/HTML/design stuff.
+Frontend materials that I reference and use on frontend projects. Mostly CSS/HTML and design related.
 
 - [CSS](#css)
 - [Scaffolding](#scaffolding)
