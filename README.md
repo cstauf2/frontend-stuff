@@ -6,6 +6,7 @@ Resources that I sometimes use on frontend projects. Mostly CSS/HTML/design stuf
 - [CSS](#css)
 - [Scaffolding](#scaffolding)
 - [Frameworks](#frameworks)
+- [Email](#email)
 - [UI Elements](#ui-elements)
 - [Responsive](#responsive)
 - [Page Speed](#page-speed)
@@ -33,9 +34,12 @@ Resources that I sometimes use on frontend projects. Mostly CSS/HTML/design stuf
 ### Frameworks
 - [bootstrap](http://getbootstrap.com/) - a popular HTML, CSS and JS framework for responsive web stuff
 - [foundation](http://foundation.zurb.com/) - "the most advanced responsive front-end framework in the world"
-- [semantic-ui](http://semantic-ui.com/) - UI kit with lots of themes and elements
+- [semantic ui](http://semantic-ui.com/) - UI kit with lots of themes and elements
 - [pure](http://purecss.io/) - a set of small, responsive CSS modules
 - [materialize](http://materializecss.com/) - a modern responsive front-end framework based on material design
+
+### Email
+- [responsive-email-resources](http://responsiveemailresources.com/) - a collection of tools and resources for responsive email design
 
 ### UI Elements
 - [taggingJS](https://github.com/sniperwolf/taggingJS/) - plugin for pretty tagging
@@ -56,7 +60,7 @@ radio buttons
 - [flowtype](http://simplefocus.com/flowtype/) - responsive typography
 
 ### Video
-- [embedresponsively.com](http://embedresponsively.com/) - embed codes for rich third-party media on responsive web pages
+- [embed-responsively](http://embedresponsively.com/) - embed codes for rich third-party media on responsive web pages
 - [Plyr](https://github.com/selz/plyr/) - a simple HTML5 media player with custom controls and captions
 
 ### Scrolling
@@ -86,8 +90,8 @@ radio buttons
 - [uiGradients](https://github.com/Ghosh/uiGradients/) - a handpicked collection of beautiful colour gradients for design and code
 - [colourco.de](http://colourco.de/) - find your colour scheme
 - [colours](http://colours.neilorangepeel.com/) - list of CSS colors by name, hex and rgb value
-- [material palette](http://www.materialpalette.com/) - material design color palette generator
-- [adobe color](https://color.adobe.com/create/color-wheel/) - capture and create inspiring color themes
+- [material-palette](http://www.materialpalette.com/) - material design color palette generator
+- [adobe-color](https://color.adobe.com/create/color-wheel/) - capture and create inspiring color themes
 
 ### Social
 - [social-feed.js](http://pavelk2.github.io/social-feed/) - plugin which displays posts by a username or a hashtag from the popular social networks: Facebook, Instagram, Twitter, Google+, VK
@@ -99,5 +103,5 @@ radio buttons
 - [codyhouse](http://codyhouse.co/library/) - web experiments by CodyHouse
 
 ### UX
-- [ux checklist](https://userium.com/) - catch common usability problems before user testing
-- [ux crash course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals/) - 31 fundamental lessons in user experience design
+- [ux-checklist](https://userium.com/) - catch common usability problems before user testing
+- [ux-crash-course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals/) - 31 fundamental lessons in user experience design
