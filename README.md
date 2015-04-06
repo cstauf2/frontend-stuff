@@ -105,4 +105,4 @@ radio buttons
 ### UX
 - [ux checklist](https://userium.com/) - catch common usability problems before user testing
 - [ux crash course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals/) - 31 fundamental lessons in user experience design
-- [ux design promises](http://donnieberg.github.io/promises/) -
+- [ux design promises](http://donnieberg.github.io/promises/) - short list of ux promises we should be making our users
