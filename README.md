@@ -1,4 +1,4 @@
-Frontend design stuff
+Frontend Design Stuff
 ========================
 
 Frontend stuff that I reference and use on projects. Mostly CSS/HTML and design related.
